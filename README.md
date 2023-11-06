@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michailtjhang&layout=compact)](https://github.com/michailtjhang/github-readme-stats)
+
 <!--
 **michailtjhang/michailtjhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
