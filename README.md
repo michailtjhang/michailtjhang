@@ -1,4 +1,4 @@
-<div align="center">
+<div id="header" align="center">
   <img src="My-Gifs/giphy.gif" alt="animated" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/michailtj39/">
