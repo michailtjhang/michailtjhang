@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="My-Gifs/giphy.gif" alt="animated" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/michailtj39/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
