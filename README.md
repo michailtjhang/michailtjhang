@@ -24,7 +24,7 @@
     
   ### :hammer_and_wrench: Languages and Tools
     
-  [![My Skills](https://skillicons.dev/icons?i=bash,cpp,css,bootstrap,firebase,git,html,javascript,mysql,nodejs,postman,sqlite,vscode&theme=light&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,css,bootstrap,tailwind,firebase,git,html,javascript,php,vue,mysql,npm,laravel,postman,postgres,sublime,vscode,vercel&theme=light&perline=10)](https://skillicons.dev)
     
   ---
 
