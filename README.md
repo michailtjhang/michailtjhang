@@ -30,7 +30,7 @@
 
   ### :fire: My Stats
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=michailtjhang&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MICHAIL&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
   
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michailtjhang&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
