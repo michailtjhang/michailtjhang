@@ -30,8 +30,8 @@
 
   ### :fire: My Stats
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michailtjhang&theme=tokyonight)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=michailtjhang&theme=tokyonight)](https://git.io/streak-stats)
+  
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=michailtjhang&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   [![My GitHub Trophies](https://github-trophies.vercel.app/?username=michailtjhang&no-frame=true&theme=discord)](https://github.com/lucthienphong1120/github-trophies)
@@ -40,7 +40,7 @@
 
   ### 🎧 Spotify Playing
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jwbocg2syv7tvslglxh6on6vfe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jwbocg2syv7tvslglxh6on6vfe&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jwbocg2syv7tvslglxh6on6vfe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jwbocg2syv7tvslglxh6on6vfe&redirect=true)
 
   ---
 
